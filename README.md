@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%202%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -45,10 +45,11 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TypeScript               10 mins             ███████████████████░░░░░░   75.05 % 
+Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -64,5 +65,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2024/10/26 18:43:33 UTC
+ Last Updated on 2024/10/27 18:43:24 UTC
 <!--END_SECTION:waka-->
